@@ -1,0 +1,10 @@
+.title {
+  padding: 1em 0 0 1em;
+}
+
+.list {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2em;
+    padding: 2em;
+}
